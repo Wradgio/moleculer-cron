@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:Wradgio/moleculer-cron.git"
+    "url": "git+ssh://git@github.com/Wradgio/moleculer-cron.git"
   },
   "homepage": "https://github.com/Wradgio/moleculer-cron#readme",
   "author": "David Roman",
